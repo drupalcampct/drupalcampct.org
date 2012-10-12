@@ -1,0 +1,37 @@
+{
+  "name": "",
+  "glyphs": [
+    {
+      "uid": "626fb97a7c0c0db53a1853fb9e96e223",
+      "orig_css": "googleplus-rect",
+      "orig_code": 62217,
+      "css": "googleplus-rect",
+      "code": 62217,
+      "src": "brandico"
+    },
+    {
+      "uid": "4c01f5d3ba5fbf029bca8630cce41e6a",
+      "orig_css": "twitter-bird",
+      "orig_code": 62211,
+      "css": "twitter-bird",
+      "code": 62211,
+      "src": "brandico"
+    },
+    {
+      "uid": "4a0bb1ac004980bb3837560d4c9e8cee",
+      "orig_css": "github",
+      "orig_code": 62216,
+      "css": "github",
+      "code": 62216,
+      "src": "brandico"
+    },
+    {
+      "uid": "cba6018f5de17c76f70b7d2c06037e5a",
+      "orig_css": "mail",
+      "orig_code": 9993,
+      "css": "mail",
+      "code": 9993,
+      "src": "websymbols"
+    }
+  ]
+}

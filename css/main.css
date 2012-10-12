@@ -331,7 +331,7 @@ h4 {
 }
 
 #logo {
-    margin-top: 75px;
+    margin-top: 15px;
     line-height: 0;
     overflow: hidden;
 }
@@ -340,7 +340,7 @@ h4 {
 }
 
 #intro {
-    margin: 75px 0 100px;
+    margin: 75px 0 30px;
     text-align: center;
 }
 
@@ -377,65 +377,24 @@ h4 {
 
 
 #social {
-    margin: 25px 0;
+    margin: 55px 0 0;
     text-align: center;
 }
 #social a {
+    padding: 0 5%;
+    font-size: 25px;
+    color: #999;
     display: inline-block;
-    margin: 0 2px;
-    position: relative;
-    width: 36px;
-    height: 36px;
 }
-#social a b, #social a i {
-    background-image: url('../img/icons/social.png');
-    background-repeat: no-repeat;
-    position: absolute;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    -webkit-transition: all 0.3s ease-in-out;
-    -moz-transition: all 0.3s ease-in-out;
-    -o-transition: all 0.3s ease-in-out;
-    transition: all 0.3s ease-in-out;
-}
-#social a b {
-    opacity: 0.3;
-}
-#social a i {
-    opacity: 0;
-}
-#social a:hover b {
-    opacity: 0;
-}
-#social a:hover i {
-    opacity: 1;
+#social a:hover {
+    color: #555
 }
 
-#dribbble b {
-    background-position: 0 0;
+hr.divider {
+    background: url('../img/divider.png') center top no-repeat;
+    border: 0;
+    height: 70px
 }
-#google b {
-    background-position: -76px 0px;
-}
-
-#twitter b {
-    background-position: -114px 0px;
-}
-
-#email b {
-    background-position: -152px -152px;
-}
-
-#google i {
-    background-position: -152px 0px;
-}
-#twitter i {
-    background-position: -38px -152px;
-}
-
-
 /*-----------------------------------------------------------------------------------*/
 /*  Responsive styles
 /*-----------------------------------------------------------------------------------*/
@@ -469,7 +428,7 @@ h4 {
         padding: 0 20px 146px;
     }
     footer {
-        margin-top: -146px;
+        /*margin-top: -146px;*/
         height: 146px;
     }
     h1 {
