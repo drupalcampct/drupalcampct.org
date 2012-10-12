@@ -1,2 +1,2 @@
-2013.drupalcampct.org-static-archive
+Splash page for DrupalCamp CT
 ====================================
