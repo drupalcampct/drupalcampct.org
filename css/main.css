@@ -356,8 +356,19 @@ h4 {
 }
 .archive ul li {
     display: inline;
-    font-size: 3em;
-    margin: 10px;
+    font-size: 2em;
+    margin: 27px;
+}
+
+.upcoming {
+  font-size:24px;
+  font-weight: 300;
+  font-family: 'Lato', 'Helvetica Neue', Arial, sans-serif;
+  color: #999;
+  text-align:center;
+}
+.upcoming p{
+  margin:0px;
 }
 /*  Newsletter form
 /*-----------------------------------------------------------------------------------*/
